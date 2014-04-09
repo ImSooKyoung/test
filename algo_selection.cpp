@@ -5,7 +5,7 @@
 #include <time.h>
 using namespace std;
 
-#define	MAX 1000
+#define	MAX 100
 
 void PrintLine( int Y, char *cFormat, ... )
 {
